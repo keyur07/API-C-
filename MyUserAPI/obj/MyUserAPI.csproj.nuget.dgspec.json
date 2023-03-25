@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/keyurmoradiya/Documents/MyUserAPI/MyUserAPI/MyUserAPI.csproj": {}
+    "/Users/keyurmoradiya/Documents/Web Design/Lab 3/MyUserAPI/MyUserAPI.csproj": {}
   },
   "projects": {
-    "/Users/keyurmoradiya/Documents/MyUserAPI/MyUserAPI/MyUserAPI.csproj": {
+    "/Users/keyurmoradiya/Documents/Web Design/Lab 3/MyUserAPI/MyUserAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/keyurmoradiya/Documents/MyUserAPI/MyUserAPI/MyUserAPI.csproj",
+        "projectUniqueName": "/Users/keyurmoradiya/Documents/Web Design/Lab 3/MyUserAPI/MyUserAPI.csproj",
         "projectName": "MyUserAPI",
-        "projectPath": "/Users/keyurmoradiya/Documents/MyUserAPI/MyUserAPI/MyUserAPI.csproj",
+        "projectPath": "/Users/keyurmoradiya/Documents/Web Design/Lab 3/MyUserAPI/MyUserAPI.csproj",
         "packagesPath": "/Users/keyurmoradiya/.nuget/packages/",
-        "outputPath": "/Users/keyurmoradiya/Documents/MyUserAPI/MyUserAPI/obj/",
+        "outputPath": "/Users/keyurmoradiya/Documents/Web Design/Lab 3/MyUserAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/keyurmoradiya/.nuget/NuGet/NuGet.Config"
@@ -51,7 +51,7 @@
             },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
-              "version": "[7.0.3, )"
+              "version": "[7.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -59,7 +59,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [

@@ -2,12 +2,17 @@
 {
     public class MyUser
     {
-        public Guid Id { get; set; }
+        public int userid { get; set; }
 
-        public string Name { get; set; }
+        public string? username { get; set; }
 
-        public string Email { get; set; }
+        public string? email { get; set; }
 
-        public string status { get; set; }
+        public string? password { get; set; }
+
+        public string? purchasehistory { get; set; }
+
+        public string? shippingaddress { get; set; }
+
     }
 }
